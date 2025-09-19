@@ -94,8 +94,9 @@ issues or pull requests you're interested in.
 | Label name            | Description                                           |
 |-----------------------|-------------------------------------------------------|
 
-
-#*Borrowed from ATLauncher's CONTRIBUTING.md*
 | `roadmap-short-term`  | Items on the roadmap in the short term (1 month).     |
 | `roadmap-medium-term` | Items on the roadmap in the medium term (3-6 months). |
 | `roadmap-long-term`   | Items on the roadmap in the long term (6-12 months).  |
+
+
+#Borrowed from ATLauncher's CONTRIBUTING.md

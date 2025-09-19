@@ -99,4 +99,4 @@ issues or pull requests you're interested in.
 | `roadmap-long-term`   | Items on the roadmap in the long term (6-12 months).  |
 
 
-#Borrowed from ATLauncher's CONTRIBUTING.md
+# Borrowed from ATLauncher's CONTRIBUTING.md
